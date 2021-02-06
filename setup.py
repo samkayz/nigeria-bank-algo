@@ -4,8 +4,8 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="nigeria-bank-algo", # Replace with your own username
-    version="0.0.1",
+    name="nigeria-bank-algos", # Replace with your own username
+    version="0.1.1",
     author="Samson Ilemobayo",
     author_email="ilemobayosamson@gmail.com",
     description="A small bank algorithm that predict nigeria bank",

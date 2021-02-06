@@ -1,0 +1,9 @@
+README.md
+setup.cfg
+setup.py
+bank/__init__.py
+bank/getbanks.py
+nigeria_bank_algos.egg-info/PKG-INFO
+nigeria_bank_algos.egg-info/SOURCES.txt
+nigeria_bank_algos.egg-info/dependency_links.txt
+nigeria_bank_algos.egg-info/top_level.txt
